@@ -8,7 +8,7 @@ import com.rupesh.sbean.GenrateMessage;
 public class MainApp
 {
 	public static void main(String[] args) {
-		 
+		  
 		ApplicationContext context  = new ClassPathXmlApplicationContext
 				("com/rupesh/conf/bean.xml"); 
 		GenrateMessage object=(GenrateMessage)
