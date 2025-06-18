@@ -4,7 +4,7 @@
 - 🌱 I’m currently deepening my skills in Spring Boot, REST APIs, and Microservices
 - 💼 Working as a Full Stack Java Developer at Glibex Pvt. Ltd.
 - 💞️ I’m looking to collaborate on real-world Java + Spring Boot projects and open-source tools
-- 📫 Reach me at: rupeshmishra.alld@gmail.com | [LinkedIn](www.linkedin.com/in/rupesh-mishra-587599211)
+- 📫 Reach me at: rupeshmishra.alld@gmail.com | [www.linkedin.com/in/rupesh-mishra-587599211](www.linkedin.com/in/rupesh-mishra-587599211)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started learning Java just for fun and ended up turning it into a full-time career!
 
